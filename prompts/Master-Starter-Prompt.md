@@ -1,5 +1,5 @@
 I have applied to the PM role in Microsoft and today I am going to solve this problem in the interview? 
-- You have to improve ChatGPT for kids who are going to school?
+- You have to improve ChatGPT for kids who are going to school/college?
 
 I want you to help me with all the 4 phases of product solving which is discover, define, develop and deliver. I want to take this one step at a time. We will only proceed to the next once I have validated and confirmed the output of the previous step.
 
