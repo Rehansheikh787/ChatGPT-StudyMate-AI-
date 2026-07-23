@@ -1,0 +1,133 @@
+# 🔍 Discovery
+
+## Objective
+
+The objective of the Discovery phase was to deeply understand the learning challenges faced by Indian high-school students and identify opportunities where AI could create meaningful value.
+
+Rather than starting with a solution, this phase focused on understanding users, their pain points, existing alternatives, and business opportunities.
+
+---
+
+# Problem Context
+
+Students preparing for competitive examinations often rely on multiple disconnected platforms throughout their learning journey.
+
+Typical workflow:
+
+- Watch lectures on YouTube
+- Practice questions on coaching platforms
+- Search Google for concepts
+- Ask ChatGPT isolated questions
+- Maintain notes separately
+
+This fragmented experience increases cognitive load and reduces consistency in learning.
+
+---
+
+# Research Goals
+
+The research focused on answering five key questions:
+
+1. Who are the target users?
+2. What are their biggest frustrations?
+3. Why are existing solutions insufficient?
+4. Where can AI provide unique value?
+5. Which opportunities align with business goals?
+
+---
+
+# Research Approach
+
+The discovery process included multiple research activities:
+
+- User Persona Development
+- Jobs-To-Be-Done (JTBD)
+- Competitor Analysis
+- Opportunity Identification
+- AI Capability Assessment
+- Product Discovery using the 4D Framework
+
+---
+
+# Primary User
+
+**Students preparing for:**
+
+- JEE
+- NEET
+- CBSE Board Exams
+- State Board Exams
+
+Age Group:
+
+14–18 years
+
+---
+
+# Key User Pain Points
+
+- Difficulty creating study plans
+- Lack of personalized revision
+- Scattered learning resources
+- Low motivation
+- Irregular study habits
+- Difficulty tracking progress
+- Generic educational content
+
+---
+
+# Existing Alternatives
+
+Students currently use a combination of:
+
+- ChatGPT
+- Google Search
+- YouTube
+- Coaching Apps
+- WhatsApp Groups
+- Physical Notes
+
+No single platform provides an end-to-end personalized AI learning experience.
+
+---
+
+# Opportunity
+
+The biggest opportunity identified was transforming ChatGPT from a reactive question-answering tool into a proactive AI learning companion.
+
+Instead of waiting for students to ask questions, the product can actively guide, motivate, remind, and personalize learning.
+
+---
+
+# Why AI?
+
+AI enables capabilities that traditional rule-based systems cannot easily provide.
+
+Examples include:
+
+- Personalized explanations
+- Adaptive study plans
+- Context-aware tutoring
+- Continuous motivation
+- Intelligent revision
+- Conversational learning
+
+---
+
+# Key Discovery Insights
+
+The Discovery phase produced several important insights:
+
+- Students need guidance, not just answers.
+- Personalized learning improves engagement.
+- AI should proactively support learning.
+- Continuous interaction is more valuable than isolated conversations.
+- Success depends on habit formation rather than information availability.
+
+---
+
+# Outcome
+
+The Discovery phase validated that there is a strong opportunity to build an AI-powered study companion capable of increasing daily engagement while improving learning outcomes for Indian students.
+
+These insights informed the Define phase, where the highest-impact problem and success metrics were prioritized.

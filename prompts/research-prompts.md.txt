@@ -1,0 +1,139 @@
+# 🔍 Research Prompts
+
+## Prompt 1
+
+Act as a Principal Product Manager and Consumer Psychologist.
+Research Objective:
+Understand the unmet needs, motivations, behaviors, and Jobs-To-Be-Done (JTBD) of high-school students (13–18 years old) in Tier-1 cities in India who use AI tools such as ChatGPT.
+Business Goal:
+Increase average sessions per student per day to more than 5.
+Conduct a deep JTBD and behavioral analysis.
+Research Areas:
+User Segmentation
+Segment high-school students into meaningful behavioral groups.
+Examples:
+Academic achievers
+Exam-focused students
+Competitive exam aspirants
+Creators
+Curious learners
+Social learners
+Productivity seekers
+Jobs-To-Be-Done Analysis
+For each segment identify:
+Functional Jobs
+What task are they trying to complete?
+Emotional Jobs
+How do they want to feel?
+Social Jobs
+How do they want to be perceived?
+Current Alternatives
+What tools or methods do students currently use instead of ChatGPT?
+Examples:
+Google Search
+YouTube
+Friends
+Teachers
+Coaching classes
+WhatsApp groups
+Educational apps
+Friction Analysis
+Identify:
+What prevents students from opening ChatGPT multiple times per day?
+What causes abandonment?
+What limits repeat engagement?
+Habit Formation Analysis
+Using behavioral frameworks such as:
+Hook Model
+Fogg Behavior Model
+Habit Loop
+Identify:
+Triggers
+Motivations
+Rewards
+Retention mechanisms
+Opportunity Discovery
+Identify:
+Underserved needs
+Unmet needs
+Latent needs
+High-frequency use cases
+Prioritization
+Rank opportunities using:
+Frequency
+User Value
+Engagement Potential
+Strategic Alignment with OpenAI
+Output Format:
+User Segments
+JTBD Table
+Pain Points
+Habit Formation Insights
+Opportunity Areas
+Prioritized Opportunity Matrix
+Recommended Focus Area
+
+Prompt-2
+You are a Senior Product Strategist preparing a product strategy report for OpenAI.
+Research Goal:
+Understand how ChatGPT can increase engagement among high-school students (13–18 years old) in Tier-1 cities in India.
+Business Objective:
+Increase average sessions per student per day to more than 5.
+Please perform a deep research study covering:
+OpenAI Mission Alignment
+OpenAI's mission and educational vision
+How educational products support long-term company growth
+Existing ChatGPT education initiatives
+Student Behavior Analysis
+Daily digital habits of Indian high-school students
+Most frequently used apps among students
+Time spent on social, gaming, education, and productivity apps
+Factors that drive repeated daily engagement
+Competitor Landscape
+Compare ChatGPT with:
+Google Gemini
+Microsoft Copilot
+Claude
+Character AI
+Khanmigo
+Doubtnut
+Physics Wallah
+BYJU'S
+Other popular AI or EdTech tools used by Indian students
+For each competitor identify:
+Core value proposition
+Engagement mechanisms
+Retention loops
+Student appeal
+Emerging Trends
+Identify:
+AI usage trends among teenagers
+Study habits
+Personalized learning trends
+Gamification trends
+Social learning trends
+AI companion trends
+User Pain Point Research
+Identify the top frustrations students experience when using:
+ChatGPT
+Traditional search engines
+EdTech platforms
+Homework tools
+Opportunity Areas
+Identify the highest-potential opportunities to increase daily engagement.
+Output Format:
+Executive Summary
+Key Insights
+User Pain Points
+Competitor Analysis
+Opportunity Areas
+Ranked Opportunities by Impact
+Sources
+
+Prompt to combine two output 
+
+Cross reference both the research documents to reduce hallucination and only give the most relevant and factually correct insights to take this problem towards and also review the attached research documents to summarize the discovery part of our problem. We need to decide if this problem is worth solving for, who is the persona and what is their user journey.
+
+## Purpose
+
+Used to perform product research during the Discovery phase by pasting two llm output into one to get more accurate results.

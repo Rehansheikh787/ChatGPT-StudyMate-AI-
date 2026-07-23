@@ -1,0 +1,56 @@
+Create a Jobs-To-Be-Done (JTBD) map for the following product challenge:
+
+Product:
+ChatGPT for High School Students in Tier-1 Indian Cities
+
+Business Goal:
+Increase average sessions per student per day to more than 5.
+
+Primary Persona:
+JEE/NEET Aspirant (Age 16–18)
+
+Persona Context:
+- Studies 6–8 hours daily
+- Attends coaching classes
+- Uses PhysicsWallah, YouTube, WhatsApp and ChatGPT
+- Faces intense academic competition
+- Experiences exam anxiety
+- Needs instant doubt solving
+
+Organize the JTBDs into the following hierarchy:
+
+Main Job
+→ Functional Jobs
+→ Emotional Jobs
+→ Social Jobs
+
+For each job include:
+- Desired Outcome
+- Current Alternative
+- Existing Pain Point
+
+Structure the visualization as a JTBD tree.
+
+Examples:
+
+Main Job:
+Crack JEE/NEET with confidence
+
+Functional Jobs:
+- Understand difficult concepts
+- Solve numerical problems
+- Revise efficiently
+- Identify weak topics
+
+Emotional Jobs:
+- Reduce anxiety
+- Feel prepared
+- Gain confidence
+
+Social Jobs:
+- Meet parental expectations
+- Keep up with peers
+- Achieve academic recognition
+
+Use a clean product management workshop style.
+
