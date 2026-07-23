@@ -60,16 +60,14 @@ assets/
     Personas
     Journey Maps
     Architecture
-
-evaluation/
-    Metrics
-
-roadmap/
-    Product Roadmap
+    diagrams 
+    prototype 
+    marketing 
 
 demo/
     Product Demo
-    ## Product Discovery
+    
+## Product Discovery
 
 This case study follows the 4D Product Framework.
 
@@ -113,10 +111,8 @@ Working on this project helped me understand:
 
 ## About Me
 
-I'm an aspiring AI Product Manager with a background in Chemical Engineering.
+I'm an Chemical Engineering professional want to transition as a aspiring AI Product Manager.
 
 I'm passionate about building AI-powered products that solve meaningful user problems through product thinking, experimentation, and rapid prototyping.
-
-Connect with me on LinkedIn-
 
 Explore more AI Product case studies on my GitHub.
