@@ -53,7 +53,7 @@ YouTube  →  Coaching App  →  Google Search  →  ChatGPT (Q&A only)  →  No
 
 Each hop adds cognitive load. ChatGPT answers well, but it's **reactive** — it waits to be asked, remembers nothing about the student's plan, and gives no reason to return tomorrow. The result is episodic usage instead of a daily learning habit.
 
-> Full research writeup: [`docs/01-Discovery.md.txt`](docs/01-Discovery.md)
+> Full research writeup: [`docs/01-Discovery.md`](docs/01-Discovery.md)
 
 ---
 
@@ -99,7 +99,7 @@ Using an **Opportunity Solution Tree**, I mapped the desired outcome (raise aver
 | Parent Dashboard | Low | v2 |
 | Peer Learning | Low | v3 |
 
-> Full rationale: [`docs/02-Define.md.txt`](docs/02-Define.md)
+> Full rationale: [`docs/02-Define.md`](docs/02-Define.md)
 
 ---
 
@@ -126,7 +126,7 @@ Using an **Opportunity Solution Tree**, I mapped the desired outcome (raise aver
 <img src="https://raw.githubusercontent.com/Rehansheikh787/ChatGPT-StudyMate-AI-/main/assets/prototype/high%20fidility%20screens.png" alt="High fidelity screens" />
 </details>
 
-> Full feature breakdown: [`docs/03-Develop.md.txt`](docs/03-Develop.md)
+> Full feature breakdown: [`docs/03-Develop.md`](docs/03-Develop.md)
 
 ---
 
@@ -162,7 +162,7 @@ flowchart LR
 
 **Core AI components:** LLM (ChatGPT) · user profile & preferences · study planner logic · recommendation engine · learning analytics · feedback loop.
 
-> Full architecture notes: [`assets/architecture/ai-architecture.md.txt`](assets/architecture/ai-architecture.md)
+> Full architecture notes: [`assets/architecture/ai-architecture.md`](assets/architecture/ai-architecture.md)
 
 ---
 
@@ -179,7 +179,7 @@ flowchart LR
 
 **Key risks:** AI hallucinations, over-dependence on AI, incorrect recommendations, privacy — mitigated through human verification on critical content, transparent AI limitations, and continuous feedback loops.
 
-> Full launch & risk plan: [`docs/04-Deliver.md.txt`](docs/04-Deliver.md)
+> Full launch & risk plan: [`docs/04-Deliver.md`](docs/04-Deliver.md)
 
 ---
 
