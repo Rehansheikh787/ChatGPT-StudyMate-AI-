@@ -12,7 +12,7 @@
 
 <img src="https://raw.githubusercontent.com/Rehansheikh787/ChatGPT-StudyMate-AI-/main/assets/marketing/Flyer.png" width="480" alt="StudyMate AI marketing flyer" />
 
-**[🔍 Discovery](docs/01-Discovery.md) · [🎯 Define](docs/02-Define.md) · [💡 Develop](docs/03-Develop.md) · [🚀 Deliver](docs/04-Deliver.md) · [🎬 Watch Demo](https://github.com/Rehansheikh787/ChatGPT-StudyMate-AI-/blob/main/demo/demo.mp4)**
+**[🔍 Discovery](docs/01-Discovery.md) · [🎯 Define](docs/02-Define.md) · [💡 Develop](docs/03-Develop.md) · [🚀 Deliver](docs/04-Deliver.md) · [📱 Live App](https://studymate-ai-prep.lovable.app) · [📄 Original Planning Doc](https://docs.google.com/document/d/1SIxP8GJ5Gx_zgjs6dXd-dBo3IK7Xti6P3-erKwFORKY/edit?usp=sharing) · [🎬 Watch Demo](https://github.com/Rehansheikh787/ChatGPT-StudyMate-AI-/blob/main/demo/demo.mp4)**
 
 </div>
 
